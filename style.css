@@ -1,6 +1,7 @@
 body{
     color: azure;
     background-color:pink;
+    margin: 0%;
     
 }
 h1{
@@ -30,5 +31,10 @@ p{
 }
 .topnav-right{
     float: right;
+}
+.header{
+    padding: 20px;
+    text-align: center;
+    background-color: indianred;
 }
 
