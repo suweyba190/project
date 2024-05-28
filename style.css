@@ -1,40 +1,10 @@
-body{
-    color: azure;
-    background-color:pink;
-    margin: 0%;
-    
-}
 h1{
-    text-align: center;
-    text-decoration-line: underline;
-    color: aquamarine;
-}
-p{
-    color: brown;
-}
-.topnav{
-    background-color: black;
-    overflow: hidden;
-    
-}
-.topnav a {
-    color: azure;
-    float: left;
-    display: block;
-    text-decoration: none;
-    padding: 14px 16px;
-}
-.topnav a:hover{
-    color: aquamarine;
-    background-color: azure;
-    text-decoration: none;
-}
-.topnav-right{
-    float: right;
-}
-.header{
-    padding: 20px;
-    text-align: center;
-    background-color: indianred;
-}
+    text-align:center ;
+    color: palevioletred;
+    text-decoration: underline;
+    text-transform: uppercase;
 
+}
+body{
+    background-color: antiquewhite;
+}
