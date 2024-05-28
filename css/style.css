@@ -54,3 +54,9 @@ h1{
     width: 34%;
     padding: 15px;
 }
+.footer{
+    background-color:wheat;
+    padding: 20px;
+    text-align: center;
+    font-size: smaller;
+}
