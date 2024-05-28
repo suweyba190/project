@@ -1,14 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
 h1{
-    text-align:center ;
+    text-align: left;
     color: palevioletred;
     text-decoration: underline;
     text-transform: uppercase;
 
 }
-body{
-    background-color: antiquewhite;
-}
+
 .topnav{
     background-color: lightslategrey;
     overflow: hidden;
+}
+.topnav a{
+    color: whitesmoke;
+    float: left;
+    display: block;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+.topnav a:hover{
+    color: black;
+    background-color: azure;
+    text-decoration: none;
+}
+.topnav-right{
+    float: right;
 }
