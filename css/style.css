@@ -55,18 +55,18 @@ h1{
     padding: 15px;
 }
 .index_img{
-    width: 40%;
+    width: 40%s;
 }
 @media screen and (max-width: 700px){
     .content, .side_bar, img{
-        width: 100%s;
+        width: 100%;
     }
     img{
         padding-right: 15px;
         width: 40%;
     }
 
-    img{
+    .index_img{
         width:100%;
     }
     
@@ -76,6 +76,9 @@ h1{
     padding: 20px;
     text-align: center;
     font-size: smaller;
+}
+.about_img{
+    width: 60%;
 }
 img{
     padding-right: 15px;
